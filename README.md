@@ -4,7 +4,7 @@ This project simulates the efficiency of different rumor spreading protocols (pu
 
 ## Results and Observations
 
-![Rumor Spreading Simulation Results](./simulation_plot.png)
+![Rumor Spreading Simulation Results](./plots/simulation_plot.png)
 
 In the simulation, I observed significant differences in the number of rounds required to inform all agents, depending on the protocol used.
 
